@@ -11,6 +11,11 @@ Hi! I'm Andy👋
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,materialui)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 
+### What I'm Doing
+* ⚡ Refactoring old projects and building new ones to revamp my portfolio
+* 🖥️ Learning Next.js and Typescript!
+* 👔 Preparing for interviews!
+
 ### Socials
 
 <div id="badges">
@@ -18,11 +23,6 @@ Hi! I'm Andy👋
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-### What I'm Doing
-* ⚡ Refactoring old projects and building new ones to revamp my portfolio
-* 🖥️ Learning Next.js and Typescript!
-* 👔 Preparing for interviews!
 
 <!--
 **amgauthier1992/amgauthier1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
