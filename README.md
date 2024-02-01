@@ -21,8 +21,8 @@ Hi! I'm Andy👋
 
 ### What I'm Doing
 * ⚡ Refactoring old projects and building new ones to revamp my portfolio
-* 💬 Learning Next.js and Typescript!
-* 👯 Preparing for interviews!
+* 🖥️ Learning Next.js and Typescript!
+* 👔 Preparing for interviews!
 
 <!--
 **amgauthier1992/amgauthier1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
