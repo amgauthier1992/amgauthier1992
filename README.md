@@ -3,7 +3,7 @@ Hi! I'm Andy👋
 
 🌍 I'm a JavaScript developer based in the Portland, Maine metro area. 
 <br/>
-🏃‍♂️ I'm currently pursuing full-time opportunities in Front-end or Full-stack web development.
+🏃‍♂️ I'm currently pursuing full-time opportunities in Front End or Full Stack web development.
 <br/>
 
 ### Skills
