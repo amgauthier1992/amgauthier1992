@@ -13,7 +13,7 @@ Hi! I'm Andy👋
 
 ### What I'm Doing
 * ⚡ Refactoring old projects and building new ones to revamp my portfolio
-* 🖥️ Learning Next.js and Typescript!
+* 🖥️ Exploring Next.js and Typescript!
 * 👔 Preparing for interviews!
 
 ### Socials
