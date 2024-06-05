@@ -11,10 +11,12 @@ Hi! I'm Andy👋
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=materialui,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 
+<!--
 ### What I'm Doing
 * 🖥️ Expanding my knowledge of Redux/Redux Toolkit and Typescript!
 * ⚡ Building new projects to reinforce my skills!
 * 👔 Preparing for interviews!
+-->
 
 ### Socials
 
