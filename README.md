@@ -12,8 +12,8 @@ Hi! I'm Andy👋
 <br/>
 
 ### What I'm Doing
-* ⚡ Refactoring old projects and building new ones to revamp my portfolio
-* 🖥️ Expanding my knowledge of Next.js, Redux Toolkit and Typescript!
+* 🖥️ Expanding my knowledge of Redux/Redux Toolkit and Typescript!
+* ⚡ Building new projects to reinforce my skills!
 * 👔 Preparing for interviews!
 
 ### Socials
