@@ -1,9 +1,9 @@
 Hi! I'm Andy👋
 ========================================================================================================================================
 
-🌍 I'm a JavaScript developer with close to 3 years of professional experience in Front End Web Development based in the Portland, Maine Metro Area. 
+🌍 I'm a Software Engineer with over 3 years of professional experience in Front end web development based in the Portland, Maine Metro Area. 
 <br/>
-🏃‍♂️ I'm currently pursuing full-time opportunities in Front End or Full Stack web development.
+🖥️ I'm currently working as a UI Engineer at Bottomline Technologies
 <br/>
 
 ### Skills
